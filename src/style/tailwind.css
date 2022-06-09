@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .headline {
+        font-size: 56px;
+        line-heigt:129%
+    }
+  }
